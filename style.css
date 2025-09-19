@@ -1,0 +1,32 @@
+.output {
+        margin-top: 20px;
+        white-space: pre-wrap;
+        background: #f3f3f3;
+        padding: 15px;
+        border-radius: 5px;
+        text-align: left;
+      }
+
+.container {
+    background-color: rgb(250, 255, 217);
+    margin: 2%;
+    padding: 20px;
+    border: 10px solid rgb(35, 93, 21)
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(15, 73, 14);
+    text-align: center;
+}
+
+form {
+    background-color: rgb(224, 233, 170);
+    padding: 20px;
+    margin: 2%;
+    border-radius: 10px;
+    border: 20px double teal;
+    color: rgb(3, 46, 3);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
